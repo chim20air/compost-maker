@@ -16,4 +16,4 @@ You can also send the temperature setpoint and open or close the electrovalve th
 In order to use the vi, you need to get installed VISA, so it can comunicate with Arduino thru USB port.
 
 Labview vi:
-!(https://github.com/chim20air/compost-maker/blob/master/Labview_Block_diagram_2.jpg)
+![vi](https://github.com/chim20air/compost-maker/blob/master/Labview_Block_diagram_2.jpg)
